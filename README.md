@@ -1,16 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif" width="200"/>
 </div>
 
 
 
 
+<div id="header" align="center">
+  <h1> Hello, there! 🖖🏻 </h1>
+</div>
 
 
 
 
-
-                                                         Hello there 👋
+                                                     
 
 
 <div id="badges" align="center">
