@@ -10,6 +10,9 @@
   <a href="https://www.credential.net/profile/giogava/wallet#gs.5fd5g1">
     <img src="https://img.shields.io/badge/Accredible-red?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Badge"/>
   </a>
+  <a href="https://www.credly.com/users/giovanni-gava/badges">
+    <img src="https://img.shields.io/badge/Credly-green?style=for-the-badge&logo=accredible&logoColor=white" alt="Credly Badge"/>
+  </a>
 </div>
 <div  align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
