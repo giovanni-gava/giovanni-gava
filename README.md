@@ -79,11 +79,9 @@ I’m passionate about technology and always exploring new tools and solutions f
 
 ---
 
-### 📊 GitHub Activity :
+### 📈 My GitHub Activity :
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=giovanni-gava&theme=dracula" alt="GitHub Activity Graph"/>
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=giovanni-gava&theme=dracula)
 
 ---
 
