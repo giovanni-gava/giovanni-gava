@@ -31,7 +31,7 @@
 
 ### 👨‍💻 About Me :
 
-My name is **Giovanni Gava**, and I'm a **Software Enginnee| **DevOps Engineer | Platform Engineer** from Brazil. 🇧🇷  
+My name is **Giovanni Gava**, and I'm a **Software Enginneer | DevOps Engineer | Platform Engineer** from Brazil. 🇧🇷  
 I’m passionate about technology and always exploring new tools and solutions for digital transformation and innovation.
 
 - 🔭 Currently working as a **DevOps Engineer**, contributing to digital transformation and growth!
