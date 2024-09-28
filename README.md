@@ -31,15 +31,16 @@
 
 ### 👨‍💻 About Me :
 
-My name is **Giovanni Gava**, and I'm a **DevOps Engineer | Platform Engineer** from Brazil. 🇧🇷  
+My name is **Giovanni Gava**, and I'm a **Software Enginnee| **DevOps Engineer | Platform Engineer** from Brazil. 🇧🇷  
 I’m passionate about technology and always exploring new tools and solutions for digital transformation and innovation.
 
 - 🔭 Currently working as a **DevOps Engineer**, contributing to digital transformation and growth!
+- 💻 Changing the world with software development
 - 🌱 Constantly learning about **new DevOps tools** and methodologies.
 - ⚡ In my free time, I enjoy reading, studying new technologies, and I'm a huge fan of **games**.
 - 💼 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/giovanni-gava-21338115a/)
   
----
+----
 
 ### 🛠️ Languages and Tools :
 
