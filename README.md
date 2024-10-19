@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif" width="200"/>
+  <img src=![](./profile-3d-contrib/profile-night-rainbow.svg) width="200"/>
 </div>
 
 <div id="badges" align="center">
