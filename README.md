@@ -22,16 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=giovanni-gava&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hello, there! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ---
 
 ### 👨‍💻 About Me :
@@ -69,9 +59,9 @@ I’m passionate about technology and always exploring new tools and solutions f
 ### 🔥 My Stats :
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanni-gava&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-gava&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=giovanni-gava&theme=dracula" alt="GitHub Streak Stats"/>
+[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/main/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 ---
