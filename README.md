@@ -69,9 +69,7 @@ I’m passionate about technology and always exploring new tools and solutions f
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?giovanni-gava=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=giovanni-gava&theme=dracula)
+https://github-profile-trophy.vercel.app/?username=giovanni-gava&theme=algolia
 
 ---
 
