@@ -24,8 +24,11 @@ I’m passionate about technology and always exploring new tools and solutions f
 ### 🛠️ Languages and Tools :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" title="Ansible" alt="Ansible" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" title="Apple" alt="Apple" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" title="Arch" alt="Arch" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
