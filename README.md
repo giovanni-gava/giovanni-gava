@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/giovanni-gava-21338115a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.credential.net/profile/giogava/wallet#gs.5fd5g1">
     <img src="https://img.shields.io/badge/Accredible-red?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Badge"/>
