@@ -56,15 +56,16 @@ I’m passionate about technology and always exploring new tools and solutions f
 
 ### 🚀 Achievements and Certifications :
 
-<div
+<div style="display: flex; gap: 20px;">
 
-  <a href="https://www.credential.net/profile/giogava/wallet#gs.5fd5g1">
+  <a href="https://www.credential.net/profile/giogava/wallet#gs.5fd5g1" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Accredible Badge" width="50" height="50" />
   </a>
 
-  <a href="https://www.credly.com/users/giovanni-gava/badges">
+  <a href="https://www.credly.com/users/giovanni-gava/badges" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="Credly Badge" width="50" height="50" />
   </a>
+  
 </div>
 
 ---
