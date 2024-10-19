@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=![](./profile-3d-contrib/profile-night-rainbow.svg) width="200"/>
+  ![](./profile-3d-contrib/profile-night-rainbow.svg) width="200"
 </div>
 
 <div id="badges" align="center">
