@@ -26,19 +26,33 @@ I’m passionate about technology and always exploring new tools and solutions f
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" title="Ansible" alt="Ansible" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" title="Apple" alt="Apple" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Apple" alt="Apple" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" title="Arch" alt="Arch" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" title="Dotnet" alt="Dotnet" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DynamoDB-Dark.svg" title="Dynamo" alt="Dynamo" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" title="ElasticSearch" alt="ElasticSearch" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" title="gcp" alt="gcp" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="GitActions" alt="GitActions" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" title="Gitlab" alt="Gitlab" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" title="Gradle" alt="Gradle" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="Graphl" alt="Graphl" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="Google Cloud" width="60" height="60"/>&nbsp;
+ 
 </div>
 
 ---
