@@ -11,10 +11,10 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge" width="50" height="50"/>
   </a>
   <a href="https://www.credential.net/profile/giogava/wallet#gs.5fd5g1">
-    <img src="https://img.shields.io/badge/Accredible-red?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" alt="Accredible Badge" width="50" height="50" />
   </a>
   <a href="https://www.credly.com/users/giovanni-gava/badges">
-    <img src="https://img.shields.io/badge/Credly-green?style=for-the-badge&logo=accredible&logoColor=white" alt="Credly Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="Credly Badge" width="50" height="50" />
   </a>
 </div>
 
