@@ -17,7 +17,8 @@ I’m passionate about technology and always exploring new tools and solutions f
 - 💻 Changing the world with software development
 - 🌱 Constantly learning about **new DevOps tools** and methodologies.
 - ⚡ In my free time, I enjoy reading, studying new technologies, and I'm a huge fan of **games**.
-- 💼 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/giovanni-gava-21338115a/)
+- 💼 Check out my professional journey on [LinkedIn]:
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ---
 
