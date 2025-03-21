@@ -18,8 +18,10 @@ I’m passionate about technology and always exploring new tools and solutions f
 - 🌱 Constantly learning about **new DevOps tools** and methodologies.
 - ⚡ In my free time, I enjoy reading, studying new technologies, and I'm a huge fan of **games**.
 - 💼 Check out my professional journey on [LinkedIn]:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="giovanni-gava-21338115a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/giovanni-gava-21338115a/en?trk=profile-badge">Giovanni Gava</a></div>
+<a href="https://www.linkedin.com/in/giovanni-gava-21338115a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Gava-blue?logo=linkedin&style=flat-square" alt="LinkedIn - Giovanni Gava" />
+</a>
+
               
 
 
