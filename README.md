@@ -4,7 +4,6 @@
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/master/day.svg" />
 	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/giovanni-gava/giovanni-gava/master/day.svg" />
 	</picture>
-	<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </p>
 
 ---
@@ -19,6 +18,8 @@ I’m passionate about technology and always exploring new tools and solutions f
 - 🌱 Constantly learning about **new DevOps tools** and methodologies.
 - ⚡ In my free time, I enjoy reading, studying new technologies, and I'm a huge fan of **games**.
 - 💼 Check out my professional journey on [LinkedIn]:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="giovanni-gava-21338115a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/giovanni-gava-21338115a/en?trk=profile-badge">Giovanni Gava</a></div>
+              
 
 
 ---
