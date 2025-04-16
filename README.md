@@ -10,13 +10,17 @@
 
 ### 👨‍💻 About Me :
 
-My name is **Giovanni Gava**, and I'm a **Software Engineer | DevOps Engineer | Platform Engineer** from Brazil. 🇧🇷  
-I’m passionate about technology and always exploring new tools and solutions for digital transformation and innovation.
+I combine over 6 years of hands-on experience in DevOps, Cloud, and Software Engineering, designing high-performance and cost-efficient infrastructures that scale. I specialize in AWS, GCP, Kubernetes, and Terraform, delivering Infrastructure as Code (IaC) solutions that drive efficiency, security, and ROI.
+With a strong background in software engineering, I deeply understand how applications are built and how infrastructure can accelerate or block business outcomes. I design cloud-native, event-driven architectures and microservices that are robust, scalable, and optimized for performance.
 
-- 🔭 Currently working as a **DevOps Engineer**, contributing to digital transformation and growth!
-- 💻 Changing the world with software development
-- 🌱 Constantly learning about **new DevOps tools** and methodologies.
-- ⚡ In my free time, I enjoy reading, studying new technologies, and I'm a huge fan of **games**.
+  I lead the full DevOps lifecycle—from CI/CD automation (GitLab, ArgoCD, Helm) to container orchestration (ECS, Kubernetes), automated security scans (Veracode, SonarQube), and cloud governance. I ensure delivery pipelines are fast, reliable, and secure, enabling shift-left testing and continuous delivery.
+  
+Beyond the tech, I bring a strategic mindset: I architect solutions not just for scale, but for cost control, business alignment, and measurable ROI. I manage AWS cost governance, drive process improvements, and act as a technical enabler across teams.
+
+   I'm also passionate about mentoring, building strong engineering cultures, and driving collaboration between teams to accelerate innovation and growth.
+
+Let's connect if you're looking for a senior engineer with leadership, vision, and execution to build what matters.
+
 - 💼 Check out my professional journey on [LinkedIn]:
 <a href="https://www.linkedin.com/in/giovanni-gava-21338115a/">
   <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Gava-blue?logo=linkedin&style=flat-square" alt="LinkedIn - Giovanni Gava" />
